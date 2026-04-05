@@ -4,22 +4,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sujay+Kadam!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from United States 🇺🇸</h3>
+<h3 align="center">Backend & AI engineer shipping production systems 🚀</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **A Chat App - KiweyChat**
+ 🔭 Currently building **production-grade AI infrastructure** at Ideanova Technologies
  
- 🌱 I’m currently learning **Kubernetes, Angular, Go, Rust, CI/CD, .NET**
+ 🌱 Deep in **vector databases (Qdrant, Pinecone), LLM orchestration, and distributed systems**
 
-💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/sujaykadam/sujaykadam/issues)**
+💬 Ask me about **Python backends, AI/ML pipelines, PostgreSQL, or system design... or anything [here](https://github.com/sujaykadam/sujaykadam/issues)**
 
-⚡ Fun fact **4 seconds is the perfect length of time to dunk your Oreos in milk. 🍪🥛**
+⚡ Fun fact **I've processed 1M+ patient records/hour in production. Healthcare data doesn't wait.** 🏥
 
- </div>
- 
+</div>
+
 <div align="center"> 
   <a href="mailto:skadam14@asu.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://sujaykadam.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -37,10 +37,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,java,arduino,c,cpp&theme=light" /> <br>
-	<img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,vue,nuxtjs,tailwind,bootstrap&theme=light" /> <br>
-	<img src="https://skillicons.dev/icons?i=nodejs,express,apollo,graphql,prisma,anaconda,flask,fastapi,spring,mongodb,mysql,postgres&theme=light" /> <br>
-	<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,ansible,githubactions,heroku,kubernetes,supabase,firebase,terraform&theme=light" /> <br>
+    <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,cpp&theme=light" /> <br>
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,graphql,apollo,prisma&theme=light" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,redux,tailwind,bootstrap&theme=light" /> <br>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase&theme=light" /> <br>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,ansible&theme=light" /> <br>
 </div>
 
 <br/>
